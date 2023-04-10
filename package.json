@@ -1,0 +1,6 @@
+{
+  "name": "elm-fio-cz",
+  "devDependencies": {
+    "elm-utils": "github:pravdomil/elm-utils"
+  }
+}
